@@ -85,7 +85,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Shubham Shrivastava](https://github.com/shrishubham) | II | IT | [@shrishubham](https://hacktoberfest.digitalocean.com/stats/shrishubham) | |
 | [Prudhvi Rambha](https://github.com/prudhvirambha) | III | CSE | [@prudhvirambha](https://hacktoberfest.digitalocean.com/stats/prudhvirambha) | |
 | [Akshay Kumar](https://github.com/GHakshay/) | III | CSE | [GHakshay]( https://hacktoberfest.digitalocean.com/stats/GHakshay) |
-| Abhimanyu Shekhawat | II | IT | |
+| [Abhimanyu Shekhawat](https://github.com/abhimanyu121) | II | IT | [@abhimanyu121](https://hacktoberfest.digitalocean.com/stats/Abhimanyu121)|
 | [Yudhishthir Bhunwal](https://github.com/yudhishthirbhunwal) | II | IT | [@yudhishthirbhunwal](https://hacktoberfest.digitalocean.com/stats/yudhishthirbhunwal) |
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
